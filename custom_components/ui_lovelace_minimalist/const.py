@@ -14,9 +14,9 @@ TV = TypeVar("TV")
 PACKAGE_NAME = "custom_components.ui_lovelace_minimlist"
 
 ATTRIBUTION = "Data provided by http://jsonplaceholder.typicode.com/"
-ISSUE_URL = "https://github.com/stokkie90/ui-lovelace-minimalist/issues"
+ISSUE_URL = "https://github.com/chkockle/UI-Lovelace-Minimalist/issues"
 
-GITHUB_REPO = "UI-Lovelace-Minimalist/UI"
+GITHUB_REPO = "chkockle/UI-Lovelace-Minimalist"
 COMMUNITY_CARDS_FOLDER = "custom_cards"
 
 LANGUAGES = {
